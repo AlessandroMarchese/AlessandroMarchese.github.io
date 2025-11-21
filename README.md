@@ -12,7 +12,8 @@ I’m always open to new ideas, collaborations and conversations.
 Feel free to reach out via email: **alessandro.marchese@vub.be** 
 Let’s explore what we can build together.
 
-Other links: [LinkedIn](www.linkedin.com/in/alessandro--marchese) |  [Google Scholar](https://scholar.google.com/citations?hl=en&user=jBQo8-wAAAAJ) 
+Other links: 
+[LinkedIn](www.linkedin.com/in/alessandro--marchese) |  [Google Scholar](https://scholar.google.com/citations?hl=en&user=jBQo8-wAAAAJ) | [Github](https://github.com/AlessandroMarchese)
 
 ## Research & Projects  
 - [**CLEXNET <span style="color: rgb(138, 43, 226);">@NeurIPS 2025</span>**](https://openreview.net/pdf?id=b8XmjZmsN0): A causal-explanation-guided model for organ-offer acceptance that learns policy-invariant representations using refusal-reason signals to improve generalization and predictive reliability.
