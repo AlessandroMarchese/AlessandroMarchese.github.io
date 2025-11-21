@@ -1,7 +1,7 @@
 # Alessandro Marchese  
 *PhD Student in Machine Learning · Researcher*
 
-Welcome to my personal site — a place where I share my research, projects, writings and academic journey in machine learning and causality.
+Welcome to my personal site — a place where I share my research, projects,and academic journey in machine learning and causality.
 
 ## About Me  
 I am currently a joint PhD student at Vrije Universiteit Brussel (VUB) and Universiteit Hasselt (UHasselt). My research interests lie at the intersection of **machine learning** and **causality**, often applied to healthcare systems. Previously, I have been an engineering student at KU Leuven.
