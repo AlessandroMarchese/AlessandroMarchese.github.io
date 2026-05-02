@@ -10,7 +10,7 @@ I am currently a joint PhD student at Vrije Universiteit Brussel (VUB) and Unive
 ### Get in Touch  
 I’m always open to new ideas, collaborations and conversations.  
 Feel free to reach out via email: **alessandro.marchese@vub.be** 
-Let’s explore what we can build together.
+
 
 Other links: 
 [LinkedIn](https://www.linkedin.com/in/alessandro--marchese/) |  [Google Scholar](https://scholar.google.com/citations?hl=en&user=jBQo8-wAAAAJ) | [Github](https://github.com/AlessandroMarchese)
