@@ -16,7 +16,7 @@ Other links:
 [LinkedIn](https://www.linkedin.com/in/alessandro--marchese/) |  [Google Scholar](https://scholar.google.com/citations?hl=en&user=jBQo8-wAAAAJ) | [Github](https://github.com/AlessandroMarchese)
 
 ## Research & Projects  
-- [**Estimating Continuous Treatment Effects with Recourse Data <span style="color: rgb(138, 43, 226);">@NeurIPS 2026</span>**]([https://openreview.net/pdf?id=b8XmjZmsN0](https://neurips.cc/virtual/2026/loc/sydney/poster/149123)): A recourse-based framework for continuous treatment effect estimation that leverages counterfactual explanations as causal supervision, using Lynden–Bell reweighting to correct selection bias and estimate dose-response curves even when standard treatment overlap fails.
+- [**Estimating Continuous Treatment Effects with Recourse Data <span style="color: rgb(138, 43, 226);">@NeurIPS 2026</span>**](https://neurips.cc/virtual/2026/loc/sydney/poster/149123): A recourse-based framework for continuous treatment effect estimation that leverages counterfactual explanations as causal supervision, using Lynden–Bell reweighting to correct selection bias and estimate dose-response curves even when standard treatment overlap fails.
 
 - [**CLEXNET <span style="color: rgb(138, 43, 226);">@NeurIPS 2025</span>**](https://openreview.net/pdf?id=b8XmjZmsN0): A causal-explanation-guided model for organ-offer acceptance that learns policy-invariant representations using refusal-reason signals to improve generalization and predictive reliability.
 
